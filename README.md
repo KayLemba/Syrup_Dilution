@@ -3,7 +3,7 @@
 
 # 📗 Table of Contents
 
-- [4_Four_Rings](#4 Four Rings)
+- [Syrup_Dilution](#Syrup_Diluton)
 - [📗 Table of Contents](#-table-of-contents)
 - [🎯 Create own Enumerable](#-create-own-enumerable)
   - [🛠 Built With ](#-built-with-)
@@ -25,7 +25,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # <a name="about-project"></a>
-This is a ruby program  that generates and counts the possible ring combinations.
+This is a ruby program  that allows a user to calculate how many milliliters of their glass of syrup they need to replace to achieve the recommended dilution.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
